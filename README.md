@@ -7,6 +7,9 @@ This repository contains a suite of Playwright tests designed to verify the beha
 
 The tests are written in TypeScript and use Playwright's testing framework for browser automation.
 
+## Test Doc
+https://docs.google.com/spreadsheets/d/1kGhIgd1oB-PM_l0GFrOoLsARkD1hTPJr-Gvyx4L3PQ8/edit?usp=sharing
+
 ## Prerequisites
 
 Before running the tests, ensure you have the following installed:
